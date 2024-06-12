@@ -12,6 +12,9 @@ We introduce a self-supervised pretraining method, called OccFeat, for camera-on
   <img src="images/main_fig.png"/>
 </div>
 
+
+
+
 ## Coming Soon!
 
 We are in the process of preparing code and models. Stay tuned for updates.
