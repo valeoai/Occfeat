@@ -9,7 +9,7 @@ We introduce a self-supervised pretraining method, called OccFeat, for camera-on
 
 
 <div align="center">
-  <img src="images/main_fig.jpg"/>
+  <img src="images/main_fig.png"/>
 </div>
 
 ## Coming Soon!
